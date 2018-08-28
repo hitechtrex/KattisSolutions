@@ -1,8 +1,5 @@
-﻿/******
- * Spavanac
- * https://open.kattis.com/problems/spavanac
- * Difficulty - 1.3
- ******/
+﻿// https://open.kattis.com/problems/spavanac
+// Steve Jia
 using System;
 
 namespace Spavanac

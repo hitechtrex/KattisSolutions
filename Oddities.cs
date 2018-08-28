@@ -1,4 +1,5 @@
 // https://open.kattis.com/problems/oddities
+// Steve Jia
 using System;
 public class Solution{
     public static void Main(string[] args){

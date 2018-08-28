@@ -1,4 +1,5 @@
 // https://open.kattis.com/problems/easiest
+// Steve Jia
 using System;
 
 public class Solution{

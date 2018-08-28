@@ -1,4 +1,5 @@
 // https://open.kattis.com/problems/icpcawards
+// Steve Jia
 using System;
 using System.Collections.Generic;
 public class Solution{

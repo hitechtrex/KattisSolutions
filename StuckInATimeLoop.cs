@@ -1,8 +1,5 @@
-﻿/**************************************
- * Stuck In A Time Loop
- * https://open.kattis.com/problems/timeloop
- * Difficulty - 1.2
- **************************************/
+﻿// https://open.kattis.com/problems/timeloop
+// Steve Jia
 using System;
 
 namespace StuckInATimeLoop

@@ -1,4 +1,5 @@
 // https://open.kattis.com/problems/nodup
+// Steve Jia
 using System;
 using System.Linq;
 public class Solution{

@@ -1,5 +1,5 @@
-// Kattis: Pot
 // https://open.kattis.com/problems/pot
+// Steve Jia
 using System;
 using System.Collections.Generic;
 public class Solution{

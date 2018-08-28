@@ -1,8 +1,5 @@
-﻿/******
- * Left Beehind
- * https://open.kattis.com/problems/leftbeehind
- * Difficulty - 1.6
- *****/
+﻿// https://open.kattis.com/problems/leftbeehind
+// Steve Jia
 using System;
 using System.Collections.Generic;
 

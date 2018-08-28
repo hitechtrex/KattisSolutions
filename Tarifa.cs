@@ -1,8 +1,5 @@
-﻿/******
- * Tarifa
- * https://open.kattis.com/problems/tarifa
- * Difficulty - 1.2
- ******/
+﻿// https://open.kattis.com/problems/tarifa
+// Steve Jia
 using System;
 using System.Collections.Generic;
 

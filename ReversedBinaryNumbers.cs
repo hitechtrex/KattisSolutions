@@ -1,4 +1,5 @@
 // https://open.kattis.com/problems/reversebinary
+// Steve Jia
 using System;
 using System.Linq;
 public class Solution{

@@ -1,4 +1,5 @@
 // https://open.kattis.com/problems/cetvrta
+// Steve Jia
 using System;
 using System.Collections.Generic;
 using System.Linq;

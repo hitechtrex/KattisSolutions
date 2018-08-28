@@ -1,8 +1,5 @@
-﻿/******
- * Sibice
- * https://open.kattis.com/problems/sibice
- * Difficulty - 1.2
- ******/
+﻿// https://open.kattis.com/problems/sibice
+// Steve Jia
 using System;
 using System.Collections.Generic;
 using System.Linq;

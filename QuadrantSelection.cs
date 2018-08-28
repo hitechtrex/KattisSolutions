@@ -1,8 +1,5 @@
-﻿/******
- * Quadrant Selection
- * https://open.kattis.com/problems/quadrant
- * Difficulty - 1.2
- ******/
+﻿// https://open.kattis.com/problems/quadrant
+// Steve Jia
 using System;
 using System.Linq;
 

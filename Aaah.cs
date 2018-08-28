@@ -1,8 +1,5 @@
-﻿/*****
- * Aaah!
- * https://open.kattis.com/problems/aaah
- * Difficulty - 1.7
- ******/
+﻿// https://open.kattis.com/problems/aaah
+// Steve Jia
 using System;
 
 namespace Aaah

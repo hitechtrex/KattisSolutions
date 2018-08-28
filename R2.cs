@@ -1,8 +1,5 @@
-﻿/******
- * R2
- * https://open.kattis.com/problems/r2
- * Difficulty - 1.2
- ******/
+﻿// https://open.kattis.com/problems/r2
+// Steve Jia
 using System;
 
 namespace R2
